@@ -1,0 +1,18 @@
+{
+  "name": "level-30---eindopdracht-tdd-boerderij",
+  "version": "1.0.0",
+  "description": "Eindopdracht: De TDD groentetuin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "TDD",
+    "groentetuin"
+  ],
+  "author": "Zafar Baig",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
